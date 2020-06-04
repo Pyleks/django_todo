@@ -26,7 +26,7 @@ SECRET_KEY = 't11%ts28oxfste3s5!&*398n^a-2#he+=9og=2gv+65#iiy70p'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['pyleks-todo.herokuapp.com']
 
 
 # Application definition
